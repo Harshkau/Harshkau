@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Harshkaushik
-- 🌱 I’m currently learning css & js 
+- 👋 Hi, I’m<b> Harsh kaushik</b>
+- <br>
+- 🌱 I’m currently learning java script 
