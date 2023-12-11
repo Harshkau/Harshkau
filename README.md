@@ -1,3 +1,3 @@
 - 👋 Hi, I’m<b> Harsh kaushik</b>
 - <br>
-- 🌱 I’m currently learning java script 
+- 🌱<strong> I’m currently learning:</strong> java script 
